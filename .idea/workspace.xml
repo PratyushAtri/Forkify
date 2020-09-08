@@ -20,17 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8899b59b-5d37-42d4-a1ed-de002bab4a5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/models/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/views/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/views/searchView.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/js/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +65,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599545783160</updated>
       <workItem from="1599545784609" duration="860000" />
-      <workItem from="1599548797816" duration="2325000" />
+      <workItem from="1599548797816" duration="7973000" />
+      <workItem from="1599572263814" duration="3606000" />
+      <workItem from="1599578595376" duration="1175000" />
     </task>
     <servers />
   </component>
@@ -74,5 +84,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599552390310">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1599552390310" />
+    <state x="0" y="27" width="1003" height="699" key="dock-window-1" timestamp="1599573328007">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1003" height="699" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1599573328007" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599552139296">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1599552139296" />
   </component>
 </project>
