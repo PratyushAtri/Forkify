@@ -8,16 +8,8 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PratyushAtri/Forkify.git"
-  },
   "author": "Pratyush Atri",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PratyushAtri/Forkify/issues"
-  },
-  "homepage": "https://github.com/PratyushAtri/Forkify#readme",
   "devDependencies": {
     "html-webpack-plugin": "^4.4.1",
     "webpack": "^4.44.1",
